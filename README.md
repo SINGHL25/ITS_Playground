@@ -1,4 +1,5 @@
 # ITS_Playground
+<img width="1024" height="1024" alt="Generated Image September 22, 2025 - 9_26PM" src="https://github.com/user-attachments/assets/5f507b4f-2ac7-494d-8696-62d216b613a0" />
 
 ```plaintext
 ITS_Playground/
